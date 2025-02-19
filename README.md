@@ -1,0 +1,2 @@
+# TA_ENE231_2024
+Teacher Assistant for ENE231 Digital Systems Engineering at KING MONGKUT'S UNIVERSITY OF TECHNOLOGY THONBURI.
