@@ -1,14 +1,14 @@
 # TA_ENE231_2024
 created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
 
-Simulation Setup
+# Simulation Setup
 
 1. ดาวน์โหลดและติดตั้ง GHDL และ GtkWave
 2. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \GDHL
 3. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \gtkwave
 
 
-  **เพิ่ม GHDL ลงใน Environment Variables:**
+**เพิ่ม GHDL ลงใน Environment Variables:**
 
    
 4. เปิด Control Panel และไปที่ System > Advanced system settings
