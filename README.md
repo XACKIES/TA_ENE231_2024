@@ -4,3 +4,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 Ref
 -  [tinytapeout](https://tinytapeout.com/siliwiz/) for Logic gate simulation
+
+
+Simulation Setup
+
+- ดาวน์โหลดและติดตั้ง GHDL
