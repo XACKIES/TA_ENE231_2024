@@ -28,5 +28,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 13. กดรันไฟล์ [Test_Softwave_Setup.bat](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Software_Setup/Software_Setup_Testing/Test_Softwave_Setup.bat)
 
 **ผลลัพท์**
-
-
+![Software_Setup_1](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_1.png)
+![Software_Setup_2](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_2.png)
+![Software_Setup_3](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_3.png)
+![Software_Setup_4](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_4.png)
+![Software_Setup_5](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_5.png)
