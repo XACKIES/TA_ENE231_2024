@@ -3,7 +3,7 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 # Simulation Setup
 
-1. ดาวน์โหลดและติดตั้ง GHDL และ GtkWave
+1. ดาวน์โหลดและติดตั้ง GHDL และ GtkWave ใน [Software_Setup](https://github.com/XACKIES/TA_ENE231_2024/tree/main/Software_Setup)
 2. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \GDHL
 3. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \gtkwave
 
@@ -24,3 +24,9 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 9. เปิด Command Prompt **( Window + R --> cmd )**
 10. พิมพ์คำสั่ง `gtkwave --version`
 11. พิมพ์คำสั่ง `ghdl --version`
+12. ดาวน์โหลดโฟล์เดอร์ [Software_Setup_Testing](https://github.com/XACKIES/TA_ENE231_2024/tree/main/Software_Setup/Software_Setup_Testing)
+13. กดรันไฟล์ [Test_Softwave_Setup.bat](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Software_Setup/Software_Setup_Testing/Test_Softwave_Setup.bat)
+
+**ผลลัพท์**
+
+
