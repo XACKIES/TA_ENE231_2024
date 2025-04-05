@@ -14,7 +14,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 4. เปิด Control Panel และไปที่ System > Advanced system settings
 5. คลิก Environment Variables
 6. ในส่วนของ System Variables ค้นหาตัวแปร Path และคลิก Edit
-7. คลิก New และเพิ่มเส้นทางท่เีก็บ GHDL เช่น C:\cad\GDHL\bin
+7. คลิก New และเพิ่มเส้นทางที่เก็บ GHDL และ GtkWave เช่น  C:\[ตั่งชื่อไฟล์]\GDHL\bin  , C:\[ตั่งชื่อไฟล์]\GDHL\bin
+   
 8. กด OK เพื่อบันทึกการเปลี่ยนแปลง
 
 
