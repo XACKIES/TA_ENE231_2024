@@ -1,21 +1,19 @@
-# TA_ENE231_2024
-created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
+Welcome to the TA_ENE231_2024 wiki!
 
 # Simulation Setup
 
 1. ดาวน์โหลดและติดตั้ง GHDL และ GtkWave ใน [Software_Setup](https://github.com/XACKIES/TA_ENE231_2024/tree/main/Software_Setup)
-2. แตกไฟล์.zip ที่ดาวน์โหลดมาโดยใช้โปรแกรมเช่น 7-Zip หรือ WinRAR
-3. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \GDHL
-4. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \gtkwave
+2. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \GDHL
+3. คัดลอกโฟลเดอร์ที่ได้ไปไว้ที่ตำแหน่งที่ต้องการ เช่น C:\ [ตั่งชื่อไฟล์] \gtkwave
 
 
 **เพิ่ม GHDL ลงใน Environment Variables:**
 
    
-4. [ ค้นหา "System" ในช่องการค้นหา ] System -> Advanced system settings
+4. เปิด Control Panel และไปที่ System > Advanced system settings
 5. คลิก Environment Variables
 6. ในส่วนของ System Variables ค้นหาตัวแปร Path และคลิก Edit
-7. คลิก New และเพิ่มเส้นทางที่เก็บ GHDL และ GtkWave เช่น  C:\[ตั่งชื่อไฟล์]\GDHL\bin  , C:\[ตั่งชื่อไฟล์]\GDHL\bin
+7. คลิก New และเพิ่มเส้นทางที่เก็บ GHDL และ GtkWave เช่น  C:\[ตั่งชื่อไฟล์]\GDHL\bin  , C:\[ตั่งชื่อไฟล์]\gtkwave\bin
 
 ![Software_Setup_0](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_0.png)
 
@@ -23,7 +21,7 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 8. กด OK เพื่อบันทึกการเปลี่ยนแปลง
 
 
-**ทดสอบการติดตั้ง**
+## **ทดสอบการติดตั้ง**
 
 
 9. เปิด Command Prompt **( Window + R --> cmd )**
@@ -39,5 +37,4 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 ![Software_Setup_4](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_4.png)
 ![Software_Setup_5](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_5.png)
 ![Software_Setup_6](https://github.com/XACKIES/TA_ENE231_2024/blob/main/Doc/Software_Setup_6.png)
-
 
